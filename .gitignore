@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+data/
+outputs/*
+!outputs/.gitkeep
+*.pth
+*.pt

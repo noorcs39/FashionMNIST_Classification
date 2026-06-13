@@ -1,0 +1,6 @@
+torch>=2.0
+torchvision>=0.15
+matplotlib>=3.6
+jupyter>=1.0
+pytest>=7.0
+Pillow>=9.0
